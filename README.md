@@ -4,16 +4,6 @@ A fully functional Snake game written in **x86 16-bit Assembly**, running native
 
 ---
 
-## 📸 Screenshots
-
-> Run in DOSBox to see the full experience with the animated title screen, glowing red apple, and green directional snake.
-
-| Main Menu | Gameplay | Game Over |
-|-----------|----------|-----------|
-| ASCII art snake logo | Green snake with directional arrows | Score display + restart/exit buttons |
-
----
-
 ## 🎮 How to Play
 
 | Key | Action |
